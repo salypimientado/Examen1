@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Examen1</string>
+    <string name="Lego">Lego</string>
+    <string name="descLego">desclego</string>
+    <string name="Alita">Alita</string>
+    <string name="alitaDesc">Desc1</string>
+    <string name="glass">Glass</string>
+    <string name="glassDesc">Desc2</string>
+</resources>
